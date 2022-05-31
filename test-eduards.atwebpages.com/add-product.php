@@ -40,6 +40,5 @@
             </li>
         </ul>
     </form>
-    <footer><hr>Scandiweb Test Assignement</footer>
 </body>
 </html>
